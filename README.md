@@ -49,7 +49,7 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![github logo](web.png)
+![github logo](webserver.png)
 
 ## RESULT:
 WEB SERVER HAS BEEN SUCESSFULLY CREATED
